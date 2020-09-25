@@ -1,0 +1,9 @@
+.searchbar-list.list {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.searchbar-list.list .item {
+    display: flex !important;
+    align-items: center !important;
+}
